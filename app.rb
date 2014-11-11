@@ -5,6 +5,7 @@ require_relative 'models'
 set :bind, '0.0.0.0'
 set :port, 8080
 
+'goodby panda'
 configure do
   puts "Running app file"
   puts "Create database..."
